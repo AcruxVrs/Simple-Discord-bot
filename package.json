@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "better-sqlite3": "^8.4.0",
+    "discord-slash-commands": "^1.2.4",
+    "discord.js": "^14.11.0",
+    "moment": "^2.29.4",
+    "quick.db": "^9.0.6"
+  }
+}
